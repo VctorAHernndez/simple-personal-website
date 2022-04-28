@@ -4,6 +4,8 @@
 
 Simple personal website made in React back in 2019 in order to test my skills in React, Sass, deployment pipelines and whatnot!
 
+[Live Demo](https://vhernandez.me)
+
 ## Available Scripts
 
 In the project directory, you can run:
